@@ -1,11 +1,11 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Rayhan sadik</h1>
 <h3 align="center">A passionate junior full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadik126&label=Profile%20views&color=0e75b6&style=flat" alt="sadik126" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadik126" alt="sadik126" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadik126" alt="sadik126" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
