@@ -10,9 +10,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@rayhansadik10" target="blank"><img src="https://img.shields.io/twitter/follow/@rayhansadik10?logo=twitter&style=for-the-badge" alt="@rayhansadik10" /></a> </p> -->
 
-- 🔭 I’m currently working on **E-grocery**
+- 🔭 I’m currently working on **BITM**
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently learning **Php & Laravel**
 
 - 👯 I’m looking to collaborate on **Github**
 
